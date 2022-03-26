@@ -1,0 +1,1 @@
+Files are successfully created. Folders: Games, src, main, test, res, savegames, temp, drawables, vectors, icons. Files: Main.java, Utils.java, temp.txt
